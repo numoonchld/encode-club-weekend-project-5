@@ -1,0 +1,6 @@
+[submodule "encode-club-weekend-project-5-web-dapp-client"]
+	path = encode-club-weekend-project-5-web-dapp-client
+	url = https://github.com/numoonchld/encode-club-weekend-project-5-web-dapp-client
+[submodule "encode-club-weekend-project-5-lottery-contract-workbench"]
+	path = encode-club-weekend-project-5-lottery-contract-workbench
+	url = https://github.com/numoonchld/encode-club-weekend-project-5-lottery-contract-workbench
