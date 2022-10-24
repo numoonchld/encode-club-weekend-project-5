@@ -1,6 +1,9 @@
 # encode-club-weekend-project-4
 
-tokenized ballot full-stack dApp
+token based lottery dApp
+
+- Angular front-end dApp repo: https://github.com/numoonchld/encode-club-weekend-project-5-web-dapp-client
+- Hardhat based smart-contract repo: https://github.com/numoonchld/encode-club-weekend-project-5-lottery-contract-workbench
 
 **note**: this repo has git sub-modules
 
